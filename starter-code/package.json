@@ -1,0 +1,30 @@
+{
+  "name": "lab-07",
+  "version": "1.0.0",
+  "description": "Code 301 lab-07",
+  "main": "server.js",
+  "scripts": {
+    "test": "Nope",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mackoyokcam/07-nodejs-npm-express.git"
+  },
+  "keywords": [
+    "lab",
+    "codefellows",
+    "fish"
+  ],
+  "author": "Mark and Adam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mackoyokcam/07-nodejs-npm-express/issues"
+  },
+  "homepage": "https://github.com/Mackoyokcam/07-nodejs-npm-express#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "nodemon": "^1.11.0"
+  }
+}
